@@ -1,0 +1,1 @@
+web: gunicorn proyekyosua.wsgi --log-file -
